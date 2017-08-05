@@ -7,5 +7,24 @@
 		<script src='main.js'></script>
 	</head>
 	<body onload='init()'>
+		<div id='cat-layout'>
+			<ul id='cat-list'></ul>
+		</div>
+		<div id='quest-layout' class='hidden'>
+			<h1 id='cat-name'></h1>
+			<h2 id='counter'>
+				<span id='cnt-curr'></span>/
+				<span id='cnt-sum'></span>
+			</h2>
+			<p>
+				<span id='part'></span>
+				<span id='definition'></span>
+			</p>
+			<form>
+				<input id='answer'
+					autocomplete='off'>
+				<span id='correct'></span>
+			</form>
+		</div>
 	</body>
 </html>
