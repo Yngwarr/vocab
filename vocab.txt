@@ -29,7 +29,7 @@ a cringe (n) -- a quick slight movement away from something that is unpleasant o
 to crigne (v) -- to feel embarrassed or ashamed about something
 a delight (n) -- a feeling of great happiness and pleasure
 to delight (v) -- to give someone a lot of enjoyment or pleasure
-desolate (adj) -- a ~ place is completely empty with no people or pleasant features in it more...
+desolate (adj) -- a ~ place is completely empty with no people or pleasant features in it
 desolate (adj) -- feeling very sad and lonely
 an expanse (n) -- a large area of land, water, or sky
 a grind (n) -- something that is hard work, boring, and tiring because it takes a lot of your time and energy
@@ -39,3 +39,7 @@ spellbound (adj) -- so impressed by something that you do not pay attention to a
 a spine (n) -- the row of bones down or along the middle of a human’s or animal’s back (s...)
 a spine (n) -- the edge of a book where all the pages are fixed together
 to squeal (v) -- to make a long high sound
+
+## Structure and Interpretation of Computer Programs
+
+rife (adj) -- if something bad or unpleasant is ~, there is a lot of it

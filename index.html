@@ -4,26 +4,30 @@
 		<meta charset='UTF-8'>
 		<title>Vocabulary improver</title>
 		<link href='style.css' rel='stylesheet'>
+		<!--bootstrap-->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 		<script src='main.js'></script>
 	</head>
 	<body onload='init()'>
-		<div id='cat-layout'>
-			<ul id='cat-list'></ul>
+		<div id='cat-layout' class='container-fluid'>
+			<div id='cat-list' class='btn-group-vertical'></div>
 		</div>
-		<div id='quest-layout' class='hidden'>
-			<h1 id='cat-name'></h1>
-			<h2 id='counter'>
-				<span id='cnt-curr'></span>/
-				<span id='cnt-sum'></span>
-			</h2>
+		<div id='quest-layout' class='hidden container-fluid'>
+			<h1 id='cat-name'>
+				<small id='counter'>
+					<span id='cnt-curr'></span>/
+					<span id='cnt-sum'></span>
+				</small>
+			</h1>
 			<p>
-				<span id='part'></span>
+				<span id='part' class='label label-default'></span>
 				<span id='definition'></span>
 			</p>
-			<form>
-				<input id='answer'
-					autocomplete='off'>
-				<span id='correct'></span>
+			<form class='input-group'>
+				<span id='correct' class='input-group-addon'></span>
+				<input id='answer' autocomplete='off'>
 			</form>
 		</div>
 	</body>

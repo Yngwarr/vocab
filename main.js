@@ -57,9 +57,11 @@ function renderList() {
 	let ul = document.getElementById('cat-list');
 
 	DATA.forEach((cat, idx) => {
-		let li = document.createElement('li');
+		let li = document.createElement('button');
+		li.classList.add('btn');
+		li.classList.add('btn-default');
 		li.innerHTML = `${cat.n} `
-			+ `<i>(${cat.qs.length})</i>`;
+			+ `<span class='badge'>${cat.qs.length}</span>`;
 		li.dataset['idx'] = idx;
 		li.addEventListener('click', startQuiz);
 		ul.appendChild(li);
@@ -76,10 +78,11 @@ function startQuiz(evt) {
 
 	// write the name of the category
 	document.getElementById('cat-name').innerHTML
-		= DATA[cat_idx]['n'];
-	document.getElementById('cnt-curr').innerHTML = '1';
+		= `${DATA[cat_idx]['n']} <small id='counter'><span id='cnt-curr'>1` +
+		`</span>/<span id='cnt-sum'>${DATA[cat_idx].qs.length}</span></small>`;
+	/*document.getElementById('cnt-curr').innerHTML = '1';
 	document.getElementById('cnt-sum').innerHTML =
-		`${DATA[cat_idx].qs.length}`;
+		`${DATA[cat_idx].qs.length}`;*/
 
 	nextQuest(cat_idx);
 	//document.getElementById('answer').addEventListener(
@@ -103,7 +106,8 @@ function checkAnswer(cat_idx) {
 	let correct = DATA[cat_idx].qs[QS[QS.length - 1]].w;
 	let span = document.getElementById('correct');
 	span.innerHTML = ans.indexOf(correct) < 0
-		? `🗴 ${correct}` : `🗸 ${correct}`;
+		? `<span class='glyphicon glyphicon-remove-circle'></span> ${correct}`
+		: `<span class='glyphicon glyphicon-ok-circle'></span> ${correct}`;
 	input.value = '';
 	if (QS !== []) {
 		QS.pop();
