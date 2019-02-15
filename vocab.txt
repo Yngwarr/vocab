@@ -40,6 +40,17 @@ a spine (n) -- the row of bones down or along the middle of a human’s or anima
 a spine (n) -- the edge of a book where all the pages are fixed together
 to squeal (v) -- to make a long high sound
 
+# All as One
+
+asunder (adv) -- apart
+blight (n) -- something that damages or spoils something else
+enigma (n) -- someone or something that is mysterious and difficult to understand
+to scorch (v) -- if extreme heat ~s you, it is so hot that it is painful
+to stamp out (pv) -- to end or extinguish by forceful means
+to strive (v) -- to make a lot of effort to achieve something
+to stumble (v) -- to encounter by chance
+to stumble (v) -- to miss a step and fall or nearly fall
+
 ## Structure and Interpretation of Computer Programs
 
 rife (adj) -- if something bad or unpleasant is ~, there is a lot of it
