@@ -40,7 +40,7 @@ a spine (n) -- the row of bones down or along the middle of a human’s or anima
 a spine (n) -- the edge of a book where all the pages are fixed together
 to squeal (v) -- to make a long high sound
 
-# All as One
+## All as One
 
 asunder (adv) -- apart
 blight (n) -- something that damages or spoils something else
