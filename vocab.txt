@@ -81,3 +81,8 @@ sodden (adj) -- completely wet
 a titter (n) -- a quiet laugh that you make because you are nervous or embarrassed
 vague (adj) -- not clearly or fully explained
 vitriolic (adj) -- ~ language or behavior is cruel and full of hate
+
+## Crafting Interpreters
+
+ginormous (adj) -- extremely large
+drudgery (n) -- boring and unpleasant work that you have to do
