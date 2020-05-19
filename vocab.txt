@@ -92,3 +92,4 @@ a concession (n) -- something that you choose to do because it is sensible or co
 a misnomer (n) -- a name or description that is incorrect or inappropriate
 sans (prep) -- without
 to veer (v) -- to suddenly move in a different direction
+a rigor (n) -- the quality of being strict or severe
