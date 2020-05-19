@@ -85,5 +85,6 @@ vitriolic (adj) -- ~ language or behavior is cruel and full of hate
 ## Crafting Interpreters
 
 ginormous (adj) -- extremely large
-drudgery (n) -- boring and unpleasant work that you have to do
+a drudgery (n) -- boring and unpleasant work that you have to do
 innocuous (adj) -- not likely to offend or upset anyone
+a menagerie (n) -- a collection of live animals for study or display
