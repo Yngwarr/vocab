@@ -94,3 +94,4 @@ sans (prep) -- without
 to veer (v) -- to suddenly move in a different direction
 a rigor (n) -- the quality of being strict or severe
 grandeur (n) -- the quality of being magnificent or splendid or grand
+fervent (adj) -- very enthusiastic and sincere, especially about something you believe in or support
