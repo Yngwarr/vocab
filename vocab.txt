@@ -97,3 +97,7 @@ grandeur (n) -- the quality of being magnificent or splendid or grand
 fervent (adj) -- very enthusiastic and sincere, especially about something you believe in or support
 a diatribe (n) -- a speech or piece of writing that angrily attacks someone or something
 to elide (v) -- to leave out a sound when you say a word or group of words, for example when you say it quickly in ordinary conversation
+
+## Sunstone
+
+bespectacled (adj) -- wearing glasses
