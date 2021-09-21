@@ -100,6 +100,7 @@ to elide (v) -- to leave out a sound when you say a word or group of words, for 
 benign (adj) -- kind and nice
 enticing (adj) -- something that is ~ is so good or attractive that you want to have it or do it very much
 to vie (v) -- compete for something; engage in a contest; measure oneself against others
+contrived (adj) -- false or artificial
 
 ## Sunstone
 
