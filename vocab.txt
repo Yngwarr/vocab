@@ -101,6 +101,7 @@ benign (adj) -- kind and nice
 enticing (adj) -- something that is ~ is so good or attractive that you want to have it or do it very much
 to vie (v) -- compete for something; engage in a contest; measure oneself against others
 contrived (adj) -- false or artificial
+acquainted (adj) -- if you are ~ with something, you know about it
 
 ## Sunstone
 
