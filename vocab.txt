@@ -64,6 +64,7 @@ preemptive (adj) -- said or done before someone else has a chance to act or atta
 tomfoolery (n) -- behavior that is not sensible
 sleuth (n) -- a detective who follows a trail
 foolhardy (adj) -- ignoring obvious dangers in a stupid way
+to covet (v) -- wish, long, or crave for (something, especially the property of another person)
 
 ## Guards, Guards!
 
