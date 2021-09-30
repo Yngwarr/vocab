@@ -62,6 +62,8 @@ lukewarm (adj) -- not very enthusiastic or interested
 precarious (adj) -- likely to change or become dangerous without warning
 preemptive (adj) -- said or done before someone else has a chance to act or attack so that their plans or actions are prevented from happening
 tomfoolery (n) -- behavior that is not sensible
+sleuth (n) -- a detective who follows a trail
+foolhardy (adj) -- ignoring obvious dangers in a stupid way
 
 ## Guards, Guards!
 
