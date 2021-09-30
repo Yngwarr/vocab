@@ -66,6 +66,9 @@ sleuth (n) -- a detective who follows a trail
 foolhardy (adj) -- ignoring obvious dangers in a stupid way
 to covet (v) -- wish, long, or crave for (something, especially the property of another person)
 a feud (n) -- an angry disagreement between two people or groups that continues for a long time
+embroiled (adj) -- involved in a difficult situation
+a lout (n) -- an unpleasant young man who behaves badly, especially in public
+unscrupulous (adj) -- willing to do things that are unfair, dishonest, or illegal
 
 ## Guards, Guards!
 
