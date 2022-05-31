@@ -113,3 +113,8 @@ acquainted (adj) -- if you are ~ with something, you know about it
 ## Sunstone
 
 bespectacled (adj) -- wearing glasses
+
+## Inform7
+
+impetus (n) -- a force that helps something to happen or develop more quickly
+tractable (adj) -- easy to deal with
