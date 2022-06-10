@@ -106,19 +106,11 @@ to vie (v) -- compete for something; engage in a contest; measure oneself agains
 contrived (adj) -- false or artificial
 acquainted (adj) -- if you are ~ with something, you know about it
 
-## Inform7
+## Other
 
 impetus (n) -- a force that helps something to happen or develop more quickly
 tractable (adj) -- easy to deal with
-
-## Youtube
-
 disingenuous (adj) -- not straightforward or candid; giving a false appearance of frankness
-
-## Sunstone
-
 bespectacled (adj) -- wearing glasses
-
-## Structure and Interpretation of Computer Programs
-
 rife (adj) -- if something bad or unpleasant is ~, there is a lot of it
+extraneous (adj) -- not relating to the subject or situation that you are dealing with
