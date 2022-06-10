@@ -51,10 +51,6 @@ to strive (v) -- to make a lot of effort to achieve something
 to stumble (v) -- to encounter by chance
 to stumble (v) -- to miss a step and fall or nearly fall
 
-## Structure and Interpretation of Computer Programs
-
-rife (adj) -- if something bad or unpleasant is ~, there is a lot of it
-
 ## Homestuck
 
 lukewarm (adj) -- not hot or cold enough to be enjoyable
@@ -110,11 +106,19 @@ to vie (v) -- compete for something; engage in a contest; measure oneself agains
 contrived (adj) -- false or artificial
 acquainted (adj) -- if you are ~ with something, you know about it
 
-## Sunstone
-
-bespectacled (adj) -- wearing glasses
-
 ## Inform7
 
 impetus (n) -- a force that helps something to happen or develop more quickly
 tractable (adj) -- easy to deal with
+
+## Youtube
+
+disingenuous (adj) -- not straightforward or candid; giving a false appearance of frankness
+
+## Sunstone
+
+bespectacled (adj) -- wearing glasses
+
+## Structure and Interpretation of Computer Programs
+
+rife (adj) -- if something bad or unpleasant is ~, there is a lot of it
