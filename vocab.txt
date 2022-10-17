@@ -114,3 +114,4 @@ disingenuous (adj) -- not straightforward or candid; giving a false appearance o
 bespectacled (adj) -- wearing glasses
 rife (adj) -- if something bad or unpleasant is ~, there is a lot of it
 extraneous (adj) -- not relating to the subject or situation that you are dealing with
+spurious (adj) -- something such as a statement that is ~ is not reasonable or correct because it is not based on true facts or a sensible way of thinking
